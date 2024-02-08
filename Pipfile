@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 pylint = "*"
 pre-commit = "*"
+flask = "*"
+python-barcode = "*"
+pillow = "*"
 
 [dev-packages]
 
